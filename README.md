@@ -20,11 +20,9 @@ contoh :
 ## Convert pertanyaan tersebut menjadi taks list
 langkah selanjutnya convert pertanyaan tersebut menjadi tasklist, yang akan anda eksekusi, maka setelah pertanyaan tersebut di convert ke task list bentuknya menjadi :
 
-[x] Install vuejs
-
-[x] Jalankan vuejs di web browser
-
-[x] Buat component vuejs
+- [x] Install vuejs
+- [x] Jalankan vuejs di web browser
+- [x] Buat component vuejs
  
 
 
